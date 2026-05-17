@@ -1,206 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,40:0077b6,70:00b4d8,100:90e0ef&height=250&section=header&text=Muhammadyahyo%20A%27zamov&fontSize=45&fontColor=caf0f8&animation=fadeIn&fontAlignY=45&desc=⚡%20Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Open%20to%20Work%20⚡&descSize=16&descAlignY=65&descColor=90e0ef" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a192f,70:112240,100:000000&height=220&section=header&text=Muhammadyahyo%20A%27zamov&fontSize=45&fontColor=64ffda&animation=fadeIn&fontAlignY=55&desc=⚡%20Frontend%20Developer%20⚡&descSize=20&descAlignY=75&descColor=8892b0&stroke=64ffda&strokeWidth=1.5" width="100%"/>
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00B4D8&center=true&vCenter=true&width=750&lines=🌊+Ko'k+okean+kabi+chuqur+bilimlar;⚡+HTML+%7C+CSS+%7C+JavaScript+%7C+React;🎨+Har+bir+piksel+—+mening+asarim;💼+Kompaniyangiz+uchun+tayyor!;🚀+Let's+build+something+amazing!)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadyaxyoazamov-bot&style=for-the-badge&color=00b4d8&label=👁️+PROFILE+VIEWS&labelColor=03045e)
-&nbsp;
-![Status](https://img.shields.io/badge/💼_STATUS-OPEN_TO_WORK-00b4d8?style=for-the-badge&labelColor=03045e)
-&nbsp;
-![Location](https://img.shields.io/badge/📍_LOCATION-UZBEKISTAN-0077b6?style=for-the-badge&labelColor=03045e)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+the+future%2C+one+component+at+a+time;🎨+Turning+ideas+into+pixel-perfect+reality;⚡+HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js;🌟+Open+to+work+%E2%80%94+Let%27s+build+something+amazing!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌊 Men Haqimda
+<br/>
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="coding gif"/>
 
-```javascript
-/**
- * ╔══════════════════════════════════╗
- * ║   Muhammadyahyo A'zamov          ║
- * ║   Frontend Developer 🚀          ║
- * ╚══════════════════════════════════╝
- */
+## `> whoami`
 
-const developer = {
-  name     : "Muhammadyahyo A'zamov",
-  role     : "Frontend Developer",
-  location : "🇺🇿 Uzbekistan",
-  telegram : "@azamov_one",
-
-  loves    : [
-    "💙 Ko'k rangdagi UI dizayn",
-    "⚡ Tezkor veb-sahifalar",
-    "🎨 Pixel-perfect layout",
-    "🤝 Jamoaviy ish",
-  ],
-
-  dream    : "Dunyoning eng yaxshi",
-             "frontend developerlaridan biri bo'lish",
-
-  available: true, // ✅ HIRE ME!
-};
+```bash
+$ cat developer.json
 ```
+
+```json
+{
+  "name"       : "Muhammadyahyo A'zamov",
+  "alias"      : "azamov_one",
+  "role"       : "Frontend Developer",
+  "location"   : "🇺🇿 Uzbekistan",
+  "status"     : "✅ Open to Work",
+  "passion"    : "Beautiful & Fast Web Apps",
+  "stack"      : [
+                   "HTML5", "CSS3",
+                   "Bootstrap", "Tailwind CSS",
+                   "JavaScript", "React",
+                   "Node.js"
+                 ],
+  "contact"    : "t.me/azamov_one",
+  "motto"      : "Code is art. Art is me."
+}
+```
+
+<br/>
+
+> 🎯 **Maqsad:** Har bir loyihani san'at asariga aylantirish.
+> Faqat ishlaydigan kod emas — **hayratlanarli** kod yozaman.
 
 <br clear="right"/>
 
 ---
 
-## 💙 Tech Stack — App Ko'rinishida
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 🖥️ Frontend Tillari
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-| | Texnologiya | Daraja | Tavsif |
-|:---:|:---:|:---:|:---|
-| 🌐 | **HTML5** | ![](https://img.shields.io/badge/Expert-★★★★★-00b4d8?style=flat-square&labelColor=03045e) | Semantik, SEO-friendly markup |
-| 🎨 | **CSS3** | ![](https://img.shields.io/badge/Expert-★★★★★-00b4d8?style=flat-square&labelColor=03045e) | Animations, Flexbox, Grid |
-| ⚡ | **JavaScript** | ![](https://img.shields.io/badge/Advanced-★★★★☆-0077b6?style=flat-square&labelColor=03045e) | ES6+, DOM, Async/Await |
-| ⚛️ | **React** | ![](https://img.shields.io/badge/Advanced-★★★★☆-0077b6?style=flat-square&labelColor=03045e) | Hooks, Context, SPA |
-| 🟢 | **Node.js** | ![](https://img.shields.io/badge/Learning-★★★☆☆-90e0ef?style=flat-square&labelColor=03045e) | REST API, Express |
+### 🎭 Styling
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🎭 Styling Frameworks
-
-| | Texnologiya | Daraja | Tavsif |
-|:---:|:---:|:---:|:---|
-| 💨 | **Tailwind CSS** | ![](https://img.shields.io/badge/Advanced-★★★★☆-0077b6?style=flat-square&labelColor=03045e) | Utility-first, responsive |
-| 🅱️ | **Bootstrap** | ![](https://img.shields.io/badge/Expert-★★★★★-00b4d8?style=flat-square&labelColor=03045e) | Grid system, components |
-
-### 🛠️ Asboblar
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark&perline=5"/>
+### ⚙️ Backend & Tools
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistika
+## 📊 GitHub Universe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadyaxyoazamov-bot&show_icons=true&theme=transparent&hide_border=true&bg_color=03045e&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&border_radius=12&show=prs_merged,reviews&ring_color=00b4d8" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyaxyoazamov-bot&layout=donut&theme=transparent&hide_border=true&bg_color=03045e&title_color=00b4d8&text_color=caf0f8&border_radius=12" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadyaxyoazamov-bot&show_icons=true&theme=transparent&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&rank_icon=github&show=reviews,discussions_started,prs_merged" height="185"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyaxyoazamov-bot&layout=donut&theme=transparent&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f" height="185"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=muhammadyaxyoazamov-bot&theme=transparent&hide_border=true&background=03045e&ring=00b4d8&fire=90e0ef&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=8ecae6&currStreakNum=caf0f8&sideNums=caf0f8&border_radius=12" width="650"/>
+<img src="https://streak-stats.demolab.com?user=muhammadyaxyoazamov-bot&theme=transparent&hide_border=true&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6&background=0a192f" width="650"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadyaxyoazamov-bot&bg_color=03045e&color=00b4d8&line=0077b6&point=90e0ef&area=true&hide_border=true&area_color=0077b620&custom_title=💙%20Contribution%20Timeline&radius=12)](https://github.com/muhammadyaxyoazamov-bot)
-
-</div>
-
----
-
-## 🏆 Yutuqlar
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadyaxyoazamov-bot&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadyaxyoazamov-bot&bg_color=0a192f&color=64ffda&line=64ffda&point=ff6b6b&area_color=112240&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity)](https://github.com/muhammadyaxyoazamov-bot)
 
 </div>
 
 ---
 
-## 🐍 Contribution Ilon Animatsiyasi
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyaxyoazamov-bot&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌊 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-## 💼 Kompaniyalarga Xabar
+## 📡 Connect With Me
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   💙 Men yangi ish imkoniyatlariga ochiqman!                  ║
-║                                                               ║
-║   ✅ Frontend loyihalar                                       ║
-║   ✅ UI/UX implementation                                     ║
-║   ✅ React ilovalar                                           ║
-║   ✅ Responsive veb-sahifalar                                 ║
-║                                                               ║
-║   📬 Bog'laning: t.me/azamov_one                             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<a href="https://t.me/azamov_one">
+  <img src="https://img.shields.io/badge/Telegram-@azamov__one-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a192f"/>
+</a>
+&nbsp;
+<a href="https://github.com/muhammadyaxyoazamov-bot">
+  <img src="https://img.shields.io/badge/GitHub-muhammadyaxyoazamov--bot-64ffda?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadyaxyoazamov-bot&style=for-the-badge&color=64ffda&label=👁️+Profile+Views&labelColor=0a192f)
 
 </div>
 
 ---
 
-## 🌐 Bog'lanish
-
 <div align="center">
 
-<a href="https://t.me/azamov_one">
-<img src="https://img.shields.io/badge/TELEGRAM-@azamov__one-00b4d8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=03045e"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/muhammadyaxyoazamov-bot">
-<img src="https://img.shields.io/badge/GITHUB-Follow_Me-0077b6?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e"/>
-</a>
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║    "First, solve the problem.                        ║
+║     Then, write the code."                           ║
+║                                — John Johnson        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,40:00b4d8,70:0077b6,100:03045e&height=130&section=footer&text=Thanks+for+visiting!+💙&fontSize=20&fontColor=caf0f8&animation=twinkling&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a192f,100:112240&height=120&section=footer&text=Let%27s%20build%20something%20amazing%20together!&fontSize=18&fontColor=64ffda&animation=twinkling" width="100%"/>
 
 </div>
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
