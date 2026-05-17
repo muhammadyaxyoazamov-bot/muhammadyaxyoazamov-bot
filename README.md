@@ -1,31 +1,82 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Muhammadyahyo+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Building+Beautiful+UIs+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Muhammadyahyo%20Azamov&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descColor=a8b2d8" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=200&section=header&text=Muhammadyahyo%20A'zamov&fontSize=42&fontColor=00D9FF&animation=twinkling&fontAlignY=50&stroke=00D9FF&strokeWidth=2" width="100%"/>
+</div>
+
+<div align="center">
+
+### 👋 Salom! Men — Muhammadyahyo
+
+🎯 Frontend Developer | 💻 Web UI Enthusiast | 🚀 Always Learning
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+### 🧑‍💻 Men haqimda
 
-### 🚀 Men haqimda
-
-```typescript
-const developer = {
-  name: "Muhammadyahyo A'zamov",
-  title: "Frontend Developer",
+```javascript
+const muhammadyahyo = {
+  name: "Muhammadyahyo Azamov",
+  role: "Frontend Developer",
   location: "Uzbekistan 🇺🇿",
-  
-  skills: {
-    languages:   ["JavaScript", "HTML5", "CSS3"],
-    frameworks:  ["React", "Node.js", "Bootstrap"],
-    styling:     ["Tailwind CSS", "Bootstrap"],
-    tools:       ["Git", "GitHub", "VS Code"],
-  },
-  
-  currentFocus:  "React & Modern UI/UX",
-  available:     true,
-  funFact:       "Men kod yozaman, lekin kuchuk rasm ko'rganda to'xtayman 🐶"
+  passion: "Chiroyli va qulay veb-saytlar yaratish",
+  currentlyLearning: ["React", "Node.js", "UI/UX Design"],
+  funFact: "Kodom ishlasa ham, nima uchun ishlashini bilmayman 😄"
 };
+```
+
+---
+
+### 🛠️ Texnologiyalar & Asboblar
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Statistikam
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadyaxyoazamov-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&icon_color=e94560&text_color=a8b2d8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyaxyoazamov-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=e94560&text_color=a8b2d8" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammadyaxyoazamov-bot&theme=tokyonight&hide_border=true&background=1a1a2e&ring=e94560&fire=e94560&currStreakLabel=a8b2d8)
+
+</div>
+
+---
+
+### 🌐 Bog'lanish
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azamov_one)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadyaxyoazamov-bot)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
+
+*"Har bir kod satri — yangi bir imkoniyat"* 💫
+
+</div>
