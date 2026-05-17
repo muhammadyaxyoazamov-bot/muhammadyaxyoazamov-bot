@@ -1,3 +1,5 @@
+👋 Hi, I'm Sherjahon
+🚀 Frontend Developer | React.js Enthusiast
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Muhammadyahyo+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Building+Beautiful+UIs+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A)
