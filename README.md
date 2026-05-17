@@ -27,7 +27,8 @@ const developer = {
   
   currentFocus:  "React & Modern UI/UX",
   available:     true,
-  funFact:       "Men kod yozaman, lekin kuchuk rasm ko'rganda to'xtayman 🐶"
+  funFact:      Eng:"The best error message is the one that never shows up."
+                 Uz:"Eng yaxshi xato xabari — hech qachon chiqmaydigan xabar."
 };
 ```
 
